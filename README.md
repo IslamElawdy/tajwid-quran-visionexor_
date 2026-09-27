@@ -8,10 +8,6 @@
   <a href="https://tajwid-quran.pages.dev"><img src="screenshots/button-web.png" alt="افتح في المتصفح — Open in the browser" height="62"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/IslamElawdy/tajwid-quran-visionexor_/releases">كل الإصدارات</a>
-</p>
-
 <div dir="rtl" lang="ar">
 
 ## تعلَّم التجويد من المصحف نفسه
