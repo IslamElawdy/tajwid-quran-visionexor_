@@ -19,6 +19,7 @@
 - 💡 **«لِمَاذَا هُنَا؟»** — اضغط على أي كلمة: يظهر الحكم والحرف المؤثِّر والمتأثِّر وسبب الحكم في هذا الموضع.
 - 🔎 **إبراز أحكام مختارة** — اختر حكمًا أو أكثر، فيُبرَز في النص وحده، وتنقّل من موضع إلى موضع.
 - 📚 **أمثلة لكل حكم** — أمثلة متنوعة مختارة، وجميع المواضع في السورة أو الجزء أو القرآن كله.
+- 🎙️ **يتابع تلاوتك** — اقرأ من حفظك أو من المصحف، من أي سورة: يجد التطبيق موضعك، ويُبرز الكلمة التي تقرؤها، ويمرّر النص معك.
 - 🎧 **الاستماع** — إلى السورة أو الآية أو الكلمة أو الموضع نفسه، بصوت ١٧ قارئًا (الحصري افتراضيًا)، مع التكرار.
 - 📴 **دون إنترنت** — القرآن كاملًا في التطبيق؛ الصوت وحده يُحمَّل عند التشغيل.
 - 🌗 وضع فاتح وداكن · العربية وEnglish وDeutsch · مجاني، بلا إعلانات ولا تتبّع.
@@ -35,6 +36,26 @@
     <td align="center"><b>القراءة</b><br><sub>الأحكام ملوّنة على الحروف</sub></td>
     <td align="center"><b>أحكام مختارة في النص</b><br><sub>من موضع إلى موضع مع «لِمَاذَا هُنَا؟»</sub></td>
     <td align="center"><b>أمثلة كل حكم</b><br><sub>الحرف المؤثِّر والمتأثِّر، والاستماع</sub></td>
+  </tr>
+</table>
+
+<table dir="rtl">
+  <tr>
+    <td align="center" width="36%"><img src="screenshots/following.png" alt="متابعة التلاوة: سورة الفاتحة مفتوحة، والقارئ يتلو سورة يس، فيجدها التطبيق ويُبرز الكلمة" width="270"></td>
+    <td dir="rtl" lang="ar">
+
+### 🎙️ يتابع تلاوتك
+
+اضغط **«تابِع تلاوتي»** واقرأ — من حفظك أو من المصحف:
+
+- تُبرَز الكلمة التي تقرؤها ويتحرك النص معك.
+- **لا حاجة إلى اختيار السورة:** اقرأ من أي موضع في القرآن، فيجده التطبيق بعد كلمات قليلة وينتقل إليه («وجدتُ موضعك: سورة يس»).
+- إن أعدتَ كلمة أو تركتَ كلمة أو توقفت، ثبت الموضع ثم تابع معك.
+- **الصوت يبقى على جهازك** — يُعالَج دون إنترنت ولا يُحفظ ولا يُرسَل.
+
+<sub>المتابعة تتبّع الموضع فقط، ولا تحكم على التجويد.</sub>
+
+</td>
   </tr>
 </table>
 
@@ -71,6 +92,9 @@ and explains every place: which rule, why here, and how it sounds.
 - Tap any word for the rule, the letters involved and the reason — «لِمَاذَا هُنَا؟» (*why here?*).
 - Choose one or more rules to highlight them in the text and step from place to place.
 - Varied examples for every rule, and all its places in a surah, a juzʾ or the whole Qur'an.
+- **Follows your recitation:** recite from memory or from the text, from any surah — the app finds your place,
+  highlights the word you are at and scrolls along. No need to open the right surah first. The audio is processed
+  on your device only; nothing is recorded or sent. It follows your place and does not judge your tajwīd.
 - Listen to a surah, ayah, word or the place itself (17 reciters, al-Ḥuṣarī by default), with repeat.
 - The whole Qur'an works offline; only the audio is loaded when you play it.
 - Light and dark mode · Arabic, English, German · free, no ads, no tracking.
@@ -85,5 +109,6 @@ On the first start Windows may show “Windows protected your PC” because the 
 *More info → Run anyway*. The tajwīd places are generated automatically and not yet reviewed by scholars.
 
 This repository contains only the release files. Sources and licences — Tanzil Qur'an text, EveryAyah recordings,
-quran-align word timings, the Amiri Quran font — are credited on the website under
+quran-align word timings, the Amiri Quran font, the Quran-Lab voice model (non-profit licence) — are credited on the
+website under
 [“البيانات القانونية”](https://tajwid-quran.pages.dev/#/legal).
