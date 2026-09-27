@@ -8,6 +8,10 @@
   <a href="https://tajwid-quran.pages.dev"><img src="screenshots/button-web.png" alt="افتح في المتصفح — Open in the browser" height="62"></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/IslamElawdy/tajwid-quran-visionexor_/releases">كل الإصدارات</a>
+</p>
+
 <div dir="rtl" lang="ar">
 
 ## تعلَّم التجويد من المصحف نفسه
@@ -49,7 +53,7 @@
 
 | الجهاز | الطريقة |
 |---|---|
-| **ويندوز ١٠/١١** | نزّل `Tajwid-Quran-windows-setup.exe` وشغّله (لا يحتاج صلاحيات المدير). عند أول تشغيل قد يظهر «Windows protected your PC» لأن البرنامج غير موقَّع بشهادة تجارية: *More info ← Run anyway*. أو دون تثبيت: فكّ ضغط `Tajwid-Quran-windows-portable.zip` وشغّل `Tajwid-Quran.exe`. |
+| **ويندوز ١٠/١١** | نزّل `Tajwid-Quran-windows-setup.exe` وشغّله (لا يحتاج صلاحيات المدير). عند أول تشغيل قد يظهر «Windows protected your PC» لأن البرنامج غير موقَّع بشهادة تجارية: *More info ← Run anyway*. |
 | **أندرويد ٧ أو أحدث** | نزّل `Tajwid-Quran-android.apk` وافتحه، واسمح بالتثبيت من هذا المصدر عند السؤال. |
 | **المتصفح** | افتح [tajwid-quran.pages.dev](https://tajwid-quran.pages.dev) — ومن زر التنزيل أعلى الصفحة يمكن حفظ القرآن كاملًا للاستعمال دون إنترنت أو تثبيت الموقع كتطبيق. |
 
@@ -78,7 +82,6 @@ and explains every place: which rule, why here, and how it sounds.
 | Download | For |
 |---|---|
 | [`Tajwid-Quran-windows-setup.exe`](https://github.com/IslamElawdy/tajwid-quran-visionexor_/releases/latest/download/Tajwid-Quran-windows-setup.exe) | Windows 10/11, installer (no admin rights needed) |
-| [`Tajwid-Quran-windows-portable.zip`](https://github.com/IslamElawdy/tajwid-quran-visionexor_/releases/latest/download/Tajwid-Quran-windows-portable.zip) | Windows 10/11, no installation: unzip, start `Tajwid-Quran.exe` |
 | [`Tajwid-Quran-android.apk`](https://github.com/IslamElawdy/tajwid-quran-visionexor_/releases/latest/download/Tajwid-Quran-android.apk) | Android 7 or newer |
 | [tajwid-quran.pages.dev](https://tajwid-quran.pages.dev) | Any browser — can also save the whole Qur'an for offline use |
 
