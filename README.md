@@ -20,9 +20,10 @@
 - 🔎 **إبراز أحكام مختارة** — اختر حكمًا أو أكثر، فيُبرَز في النص وحده، وتنقّل من موضع إلى موضع.
 - 📚 **أمثلة لكل حكم** — أمثلة متنوعة مختارة، وجميع المواضع في السورة أو الجزء أو القرآن كله.
 - 🎙️ **يتابع تلاوتك** — اقرأ من حفظك أو من المصحف، من أي سورة: يجد التطبيق موضعك، ويُبرز الكلمة التي تقرؤها، ويمرّر النص معك.
-- 🎧 **الاستماع** — إلى السورة أو الآية أو الكلمة أو الموضع نفسه، بصوت ١٧ قارئًا (الحصري افتراضيًا)، مع التكرار.
+- 🎧 **الاستماع** — إلى السورة أو الآية أو الكلمة أو الموضع نفسه، بصوت ١٧ قارئًا (الحصري افتراضيًا)، مع التكرار؛ وتظهر أحكام الكلمة المتلوّة وعلاماتها على حروفها تلقائيًّا أثناء الاستماع.
+- 🧭 **القبلة** — اتجاه القبلة بدقة من موقعك أو من إحداثيات تُدخلها، مع البوصلة على الجوال؛ يُحسب على جهازك، ولا يُحفظ الموقع ولا يُرسَل.
 - 📴 **دون إنترنت** — القرآن كاملًا في التطبيق؛ الصوت وحده يُحمَّل عند التشغيل.
-- 🌗 وضع فاتح وداكن · العربية وEnglish وDeutsch · مجاني، بلا إعلانات ولا تتبّع.
+- 🌗 الوضع الداكن افتراضيًّا، والفاتح أو حسب الجهاز · العربية وEnglish وDeutsch · مجاني، بلا إعلانات ولا تتبّع.
 
 </div>
 
@@ -95,9 +96,12 @@ and explains every place: which rule, why here, and how it sounds.
 - **Follows your recitation:** recite from memory or from the text, from any surah — the app finds your place,
   highlights the word you are at and scrolls along. No need to open the right surah first. The audio is processed
   on your device only; nothing is recorded or sent. It follows your place and does not judge your tajwīd.
-- Listen to a surah, ayah, word or the place itself (17 reciters, al-Ḥuṣarī by default), with repeat.
+- Listen to a surah, ayah, word or the place itself (17 reciters, al-Ḥuṣarī by default), with repeat; while you
+  listen, the rules of the word being recited and their signs appear on its letters.
+- **Qibla:** the exact direction from your location or from coordinates you enter, with a compass on phones —
+  computed on your device; the location is neither stored nor sent (on Windows: by entering coordinates).
 - The whole Qur'an works offline; only the audio is loaded when you play it.
-- Light and dark mode · Arabic, English, German · free, no ads, no tracking.
+- Dark by default, light or like the device · Arabic, English, German · free, no ads, no tracking.
 
 | Download | For |
 |---|---|
@@ -109,6 +113,7 @@ On the first start Windows may show “Windows protected your PC” because the 
 *More info → Run anyway*. The tajwīd places are generated automatically and not yet reviewed by scholars.
 
 This repository contains only the release files. Sources and licences — Tanzil Qur'an text, EveryAyah recordings,
-quran-align word timings, the Amiri Quran font, the Quran-Lab voice model (non-profit licence) — are credited on the
+quran-align word timings, the Amiri Quran font, the Quran-Lab voice model (non-profit licence), the World Magnetic
+Model (NOAA/BGS) — are credited on the
 website under
 [“البيانات القانونية”](https://tajwid-quran.pages.dev/#/legal).
