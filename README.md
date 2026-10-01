@@ -22,6 +22,7 @@
 - 🎙️ **يتابع تلاوتك** — اقرأ من حفظك أو من المصحف، من أي سورة: يجد التطبيق موضعك، ويُبرز الكلمة التي تقرؤها، ويمرّر النص معك.
 - 🎧 **الاستماع** — إلى السورة أو الآية أو الكلمة أو الموضع نفسه، بصوت ١٧ قارئًا (الحصري افتراضيًا)، مع التكرار؛ وتظهر أحكام الكلمة المتلوّة وعلاماتها على حروفها تلقائيًّا أثناء الاستماع.
 - 🧭 **القبلة** — اتجاه القبلة بدقة من موقعك أو من إحداثيات تُدخلها، مع البوصلة على الجوال؛ يُحسب على جهازك، ولا يُحفظ الموقع ولا يُرسَل.
+- 📱 **وضع القراءة على الجوال** — في تطبيق أندرويد وفي المتصفح على الجوال: النص وحده، وشريط عائم صغير (القائمة، الألوان، المتابعة، الاستماع) يفسح المجال عند التمرير.
 - 📴 **دون إنترنت** — القرآن كاملًا في التطبيق؛ الصوت وحده يُحمَّل عند التشغيل.
 - 🌗 الوضع الداكن افتراضيًّا، والفاتح أو حسب الجهاز · العربية وEnglish وDeutsch · مجاني، بلا إعلانات ولا تتبّع.
 
@@ -100,6 +101,8 @@ and explains every place: which rule, why here, and how it sounds.
   listen, the rules of the word being recited and their signs appear on its letters.
 - **Qibla:** the exact direction from your location or from coordinates you enter, with a compass on phones —
   computed on your device; the location is neither stored nor sent (on Windows: by entering coordinates).
+- **Reading mode on phones** (Android app and phone browsers): just the text and a small floating bar (menu, colours,
+  follow, listen) that makes room while you scroll.
 - The whole Qur'an works offline; only the audio is loaded when you play it.
 - Dark by default, light or like the device · Arabic, English, German · free, no ads, no tracking.
 
