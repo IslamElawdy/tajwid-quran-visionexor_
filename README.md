@@ -20,7 +20,7 @@
 - 🔎 **إبراز أحكام مختارة** — اختر حكمًا أو أكثر، فيُبرَز في النص وحده، وتنقّل من موضع إلى موضع.
 - 📚 **أمثلة لكل حكم** — أمثلة متنوعة مختارة، وجميع المواضع في السورة أو الجزء أو القرآن كله.
 - 🎙️ **يتابع تلاوتك** — اقرأ من حفظك أو من المصحف، من أي سورة: يجد التطبيق موضعك، ويُبرز الكلمة التي تقرؤها، ويمرّر النص معك.
-- 🎧 **الاستماع** — إلى السورة أو الآية أو الكلمة أو الموضع نفسه، بصوت ١٧ قارئًا (الحصري افتراضيًا)، مع التكرار؛ وتظهر أحكام الكلمة المتلوّة وعلاماتها على حروفها تلقائيًّا أثناء الاستماع.
+- 🎧 **الاستماع** — إلى السورة أو الآية أو الكلمة أو الموضع نفسه، بصوت ١٧ قارئًا (الحصري افتراضيًا)، مع التكرار؛ وتظهر أحكام الكلمة المتلوّة وعلاماتها على حروفها تلقائيًّا أثناء الاستماع؛ وفي تطبيق أندرويد يستمر الاستماع والشاشة مقفلة.
 - 🧭 **القبلة** — اتجاه القبلة بدقة من موقعك أو من إحداثيات تُدخلها، مع البوصلة على الجوال؛ يُحسب على جهازك، ولا يُحفظ الموقع ولا يُرسَل.
 - 📱 **وضع القراءة على الجوال** — في تطبيق أندرويد وفي المتصفح على الجوال: النص وحده، وشريط عائم صغير (القائمة، الألوان، المتابعة، الاستماع) يفسح المجال عند التمرير.
 - 📴 **دون إنترنت** — القرآن كاملًا في التطبيق؛ الصوت وحده يُحمَّل عند التشغيل.
@@ -98,7 +98,8 @@ and explains every place: which rule, why here, and how it sounds.
   highlights the word you are at and scrolls along. No need to open the right surah first. The audio is processed
   on your device only; nothing is recorded or sent. It follows your place and does not judge your tajwīd.
 - Listen to a surah, ayah, word or the place itself (17 reciters, al-Ḥuṣarī by default), with repeat; while you
-  listen, the rules of the word being recited and their signs appear on its letters.
+  listen, the rules of the word being recited and their signs appear on its letters; in the Android app
+  listening goes on with the screen locked.
 - **Qibla:** the exact direction from your location or from coordinates you enter, with a compass on phones —
   computed on your device; the location is neither stored nor sent (on Windows: by entering coordinates).
 - **Reading mode on phones** (Android app and phone browsers): just the text and a small floating bar (menu, colours,
