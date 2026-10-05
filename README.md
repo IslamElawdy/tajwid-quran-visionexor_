@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://github.com/IslamElawdy/tajwid-quran-visionexor_/releases/latest/download/Tajwid-Quran-windows-setup.exe"><img src="screenshots/button-windows.png" alt="تنزيل لويندوز — Download for Windows" height="62"></a>
   <a href="https://github.com/IslamElawdy/tajwid-quran-visionexor_/releases/latest/download/Tajwid-Quran-android.apk"><img src="screenshots/button-android.png" alt="تنزيل لأندرويد — Download for Android" height="62"></a>
+  <a href="https://github.com/IslamElawdy/tajwid-quran-visionexor_/releases/latest/download/Tajwid-Quran-android-native.apk"><img src="screenshots/button-android-native.png" alt="التطبيق الأصلي لأندرويد — Native Android app" height="62"></a>
   <a href="https://tajwid-quran.pages.dev"><img src="screenshots/button-web.png" alt="افتح في المتصفح — Open in the browser" height="62"></a>
 </p>
 
@@ -74,6 +75,7 @@
 |---|---|
 | **ويندوز ١٠/١١** | نزّل `Tajwid-Quran-windows-setup.exe` وشغّله (لا يحتاج صلاحيات المدير). عند أول تشغيل قد يظهر «Windows protected your PC» لأن البرنامج غير موقَّع بشهادة تجارية: *More info ← Run anyway*. |
 | **أندرويد ٧ أو أحدث** | نزّل `Tajwid-Quran-android.apk` وافتحه، واسمح بالتثبيت من هذا المصدر عند السؤال. |
+| **أندرويد ٨ أو أحدث — التطبيق الأصلي (تجريبي)** | نزّل [`Tajwid-Quran-android-native.apk`](https://github.com/IslamElawdy/tajwid-quran-visionexor_/releases/latest/download/Tajwid-Quran-android-native.apk) وثبّته بالطريقة نفسها. تطبيق ثانٍ مكتوب لأندرويد مباشرة، بالبيانات نفسها: المصحف بألوان التجويد، وشريط ثابت كبير في الأسفل يناسب كبار السن، والاستماع ومتابعة التلاوة، والتفسير والإعراب، وحفظ القرآن، والقبلة، والمزامنة بمفتاح الحساب نفسه. يُثبَّت بجانب التطبيق الأول ولا يحلّ محله. |
 | **المتصفح** | افتح [tajwid-quran.pages.dev](https://tajwid-quran.pages.dev) — ومن زر التنزيل أعلى الصفحة يمكن حفظ القرآن كاملًا للاستعمال دون إنترنت أو تثبيت الموقع كتطبيق. |
 
 > [!NOTE]
@@ -106,11 +108,16 @@ and explains every place: which rule, why here, and how it sounds.
   follow, listen) that makes room while you scroll.
 - The whole Qur'an works offline; only the audio is loaded when you play it.
 - Dark by default, light or like the device · Arabic, English, German · free, no ads, no tracking.
+- **Native Android app (preview):** a second app written for Android itself, with the same data — the Mushaf with
+  the tajwīd colours, one fixed bar with large buttons at the bottom (made with older readers in mind), listening and
+  following your recitation, tafsir and grammar, a hifz plan, Qibla, and sync with the same account key. Search,
+  grammar, hifz and Qibla need a current “Android System WebView”.
 
 | Download | For |
 |---|---|
 | [`Tajwid-Quran-windows-setup.exe`](https://github.com/IslamElawdy/tajwid-quran-visionexor_/releases/latest/download/Tajwid-Quran-windows-setup.exe) | Windows 10/11, installer (no admin rights needed) |
 | [`Tajwid-Quran-android.apk`](https://github.com/IslamElawdy/tajwid-quran-visionexor_/releases/latest/download/Tajwid-Quran-android.apk) | Android 7 or newer |
+| [`Tajwid-Quran-android-native.apk`](https://github.com/IslamElawdy/tajwid-quran-visionexor_/releases/latest/download/Tajwid-Quran-android-native.apk) | **Native Android app (preview)**, Android 8 or newer — installs next to the other app |
 | [tajwid-quran.pages.dev](https://tajwid-quran.pages.dev) | Any browser — can also save the whole Qur'an for offline use |
 
 On the first start Windows may show “Windows protected your PC” because the app is not commercially signed:
