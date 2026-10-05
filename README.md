@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/IslamElawdy/zayyin/releases/latest/download/Tajwid-Quran-windows-setup.exe"><img src="screenshots/button-windows.png" alt="تنزيل لويندوز — Download for Windows" height="56"></a>
-  <a href="https://github.com/IslamElawdy/zayyin/releases/latest/download/Tajwid-Quran-android-native.apk"><img src="screenshots/button-android.png" alt="تنزيل لأندرويد — Download for Android" height="56"></a>
+  <a href="https://github.com/IslamElawdy/zayyin/releases/latest/download/Zayyin-windows-setup.exe"><img src="screenshots/button-windows.png" alt="تنزيل لويندوز — Download for Windows" height="56"></a>
+  <a href="https://github.com/IslamElawdy/zayyin/releases/latest/download/Zayyin-android.apk"><img src="screenshots/button-android.png" alt="تنزيل لأندرويد — Download for Android" height="56"></a>
   <a href="https://zayyin.org"><img src="screenshots/button-web.png" alt="افتح في المتصفح — Open in the browser" height="56"></a>
 </p>
 
@@ -91,8 +91,8 @@
 
 | الجهاز | الملف | ملاحظة |
 |---|---|---|
-| **ويندوز ١٠ / ١١** | [`Tajwid-Quran-windows-setup.exe`](https://github.com/IslamElawdy/zayyin/releases/latest/download/Tajwid-Quran-windows-setup.exe) | لا يحتاج صلاحيات المدير. إن ظهر «Windows protected your PC»: *More info ← Run anyway* (البرنامج غير موقَّع بشهادة تجارية). |
-| **أندرويد ٨ أو أحدث** | [`Tajwid-Quran-android-native.apk`](https://github.com/IslamElawdy/zayyin/releases/latest/download/Tajwid-Quran-android-native.apk) | افتح الملف، واسمح بالتثبيت من هذا المصدر عند السؤال. |
+| **ويندوز ١٠ / ١١** | [`Zayyin-windows-setup.exe`](https://github.com/IslamElawdy/zayyin/releases/latest/download/Zayyin-windows-setup.exe) | لا يحتاج صلاحيات المدير. إن ظهر «Windows protected your PC»: *More info ← Run anyway* (البرنامج غير موقَّع بشهادة تجارية). |
+| **أندرويد ٨ أو أحدث** | [`Zayyin-android.apk`](https://github.com/IslamElawdy/zayyin/releases/latest/download/Zayyin-android.apk) | افتح الملف، واسمح بالتثبيت من هذا المصدر عند السؤال. |
 | **أي متصفح** | [zayyin.org](https://zayyin.org) | ومن زر التنزيل في الموقع: احفظ القرآن كاملًا للاستعمال دون إنترنت، أو ثبّت الموقع كتطبيق. |
 
 تتحدّث التطبيقات المثبّتة تلقائيًّا.
@@ -130,8 +130,8 @@ follow you. The name comes from the hadith *“Beautify the Qur'an with your voi
 
 | Device | Download |
 |---|---|
-| Windows 10 / 11 | [`Tajwid-Quran-windows-setup.exe`](https://github.com/IslamElawdy/zayyin/releases/latest/download/Tajwid-Quran-windows-setup.exe): no admin rights needed. If Windows shows “Windows protected your PC”: *More info → Run anyway* (the app is not commercially signed). |
-| Android 8 or newer | [`Tajwid-Quran-android-native.apk`](https://github.com/IslamElawdy/zayyin/releases/latest/download/Tajwid-Quran-android-native.apk): open it and allow installing from this source. |
+| Windows 10 / 11 | [`Zayyin-windows-setup.exe`](https://github.com/IslamElawdy/zayyin/releases/latest/download/Zayyin-windows-setup.exe): no admin rights needed. If Windows shows “Windows protected your PC”: *More info → Run anyway* (the app is not commercially signed). |
+| Android 8 or newer | [`Zayyin-android.apk`](https://github.com/IslamElawdy/zayyin/releases/latest/download/Zayyin-android.apk): open it and allow installing from this source. |
 | Any browser | [zayyin.org](https://zayyin.org): can also save the whole Qur'an for offline use. |
 
 > [!NOTE]
@@ -165,8 +165,8 @@ euren Stimmen.“*
 
 | Gerät | Download |
 |---|---|
-| Windows 10 / 11 | [`Tajwid-Quran-windows-setup.exe`](https://github.com/IslamElawdy/zayyin/releases/latest/download/Tajwid-Quran-windows-setup.exe): ohne Administratorrechte. Zeigt Windows „Der Computer wurde durch Windows geschützt“: *Weitere Informationen → Trotzdem ausführen* (die App ist nicht kostenpflichtig signiert). |
-| Android 8 oder neuer | [`Tajwid-Quran-android-native.apk`](https://github.com/IslamElawdy/zayyin/releases/latest/download/Tajwid-Quran-android-native.apk): öffnen und die Installation aus dieser Quelle erlauben. |
+| Windows 10 / 11 | [`Zayyin-windows-setup.exe`](https://github.com/IslamElawdy/zayyin/releases/latest/download/Zayyin-windows-setup.exe): ohne Administratorrechte. Zeigt Windows „Der Computer wurde durch Windows geschützt“: *Weitere Informationen → Trotzdem ausführen* (die App ist nicht kostenpflichtig signiert). |
+| Android 8 oder neuer | [`Zayyin-android.apk`](https://github.com/IslamElawdy/zayyin/releases/latest/download/Zayyin-android.apk): öffnen und die Installation aus dieser Quelle erlauben. |
 | Jeder Browser | [zayyin.org](https://zayyin.org): kann den ganzen Qur'an auch für die Offline-Nutzung speichern. |
 
 > [!NOTE]
@@ -181,9 +181,9 @@ euren Stimmen.“*
 <br>
 
 This repository holds only the release files. Every release replaces the files behind the download links above.
-The file names still begin with `Tajwid-Quran`, the app's name until 0.5.7, because installed apps look for their
-updates under exactly these names. The old website address forwards to zayyin.org, together with your bookmarks
-and hifz plan.
+Each release also carries `Tajwid-Quran-android-native.apk`, the same Android app under its name until 1.0.0:
+the Android apps installed before 1.0.1 look for their updates under exactly that name. The old website address
+forwards to zayyin.org, together with your bookmarks and hifz plan.
 
 Sources and licences are credited on the website under
 [“البيانات القانونية”](https://zayyin.org/#/legal): the Tanzil Qur'an text, EveryAyah recordings, quran-align
