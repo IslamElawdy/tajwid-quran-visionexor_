@@ -94,7 +94,7 @@
 تتحدّث التطبيقات المثبّتة تلقائيًّا.
 
 > [!NOTE]
-> مواضع التجويد مولَّدة آليًّا من النص، ولم يراجعها أهل العلم بعدُ. إن وجدتَ خطأً فاضغط «اقتراح تصحيح» في التطبيق،
+> إن وجدتَ خطأً فاضغط «اقتراح تصحيح» في التطبيق،
 > أو راسلنا (العنوان في [البيانات القانونية](https://zayyin.org/#/legal)).
 
 هذا العمل لوجه الله تعالى، ولمن أراد أن يتعلّم تلاوة القرآن بسهولة. نسأل الله أن يتقبّله وينفع به.
@@ -131,7 +131,7 @@ follow you. The name comes from the hadith *“Beautify the Qur'an with your voi
 | Any browser | [zayyin.org](https://zayyin.org): can also save the whole Qur'an for offline use. |
 
 > [!NOTE]
-> The tajwīd places are generated automatically and have not yet been reviewed by scholars. Found a mistake? Use
+> Found a mistake? Use
 > “Suggest a correction” in the app.
 
 ---
