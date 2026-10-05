@@ -166,7 +166,7 @@ euren Stimmen.“*
 | Jeder Browser | [zayyin.org](https://zayyin.org): kann den ganzen Qur'an auch für die Offline-Nutzung speichern. |
 
 > [!NOTE]
-> Die Tajwīd-Stellen sind automatisch erzeugt und noch nicht von Gelehrten geprüft. Fehler gefunden? In der App
+> Fehler gefunden? In der App
 > „Korrektur vorschlagen“ wählen.
 
 ---
