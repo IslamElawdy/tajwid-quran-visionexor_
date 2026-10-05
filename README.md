@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://zayyin.org"><img src="screenshots/banner.png" alt="زيِّن — Zayyin: أحكام التجويد ملوّنةً على الحروف نفسها" width="100%"></a>
+  <a href="https://zayyin.org"><img src="screenshots/logo.svg" alt="زيّنوا القرآن بأصواتكم — Zayyin" width="640"></a>
 </p>
 
 <p align="center">
@@ -30,6 +30,10 @@
 الاسم من الحديث الشريف: «زيِّنوا القرآنَ بأصواتكم».
 
 </div>
+
+<p align="center">
+  <img src="screenshots/banner.png" alt="زيِّن — أحكام التجويد ملوّنةً على الحروف نفسها، مع الشرح والأمثلة والاستماع" width="100%">
+</p>
 
 <table dir="rtl">
   <tr>
@@ -94,7 +98,7 @@
 تتحدّث التطبيقات المثبّتة تلقائيًّا.
 
 > [!NOTE]
-> إن وجدتَ خطأً فاضغط «اقتراح تصحيح» في التطبيق،
+> مواضع التجويد مولَّدة آليًّا من النص، ولم يراجعها أهل العلم بعدُ. إن وجدتَ خطأً فاضغط «اقتراح تصحيح» في التطبيق،
 > أو راسلنا (العنوان في [البيانات القانونية](https://zayyin.org/#/legal)).
 
 هذا العمل لوجه الله تعالى، ولمن أراد أن يتعلّم تلاوة القرآن بسهولة. نسأل الله أن يتقبّله وينفع به.
@@ -131,7 +135,7 @@ follow you. The name comes from the hadith *“Beautify the Qur'an with your voi
 | Any browser | [zayyin.org](https://zayyin.org): can also save the whole Qur'an for offline use. |
 
 > [!NOTE]
-> Found a mistake? Use
+> The tajwīd places are generated automatically and have not yet been reviewed by scholars. Found a mistake? Use
 > “Suggest a correction” in the app.
 
 ---
@@ -166,7 +170,7 @@ euren Stimmen.“*
 | Jeder Browser | [zayyin.org](https://zayyin.org): kann den ganzen Qur'an auch für die Offline-Nutzung speichern. |
 
 > [!NOTE]
-> Fehler gefunden? In der App
+> Die Tajwīd-Stellen sind automatisch erzeugt und noch nicht von Gelehrten geprüft. Fehler gefunden? In der App
 > „Korrektur vorschlagen“ wählen.
 
 ---
